@@ -1,0 +1,1 @@
+SELECT * from INFORMATION_SCHEMA.COLUMNS where table_name = 'events';
